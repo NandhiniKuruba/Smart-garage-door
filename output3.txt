@@ -1,0 +1,4 @@
+distance measures=60cm
+distance measures=50cm
+distance measures=30cm
+distance measures=10cm
